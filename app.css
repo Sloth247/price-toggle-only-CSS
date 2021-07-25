@@ -223,7 +223,7 @@ a {
   font-size: 4rem;
 }
 
-/* toggle did not work by only CSS 
+/* toggle did not work by only CSS */
 
 .header__checkbox:not(:checked) ~ * .plan__price--annual {
   display: block;
@@ -236,15 +236,11 @@ a {
   display: none;
 }
 
-*/
 
 .hidden {
   display: none;
 }
 
-/* .hidden {
-  display: none;
-} */
 
 .plan__details {
   display: flex;
